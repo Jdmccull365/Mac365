@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jdmccull365
-- 👀 I’m interested in Finance and Tech
+- 👀 I’m interested in hybrid point between Finance and Tech
 - 🌱 I’m currently learning/experienced in Python,solidity, truffle, and java
 - 💞️ I’m looking to collaborate on new Dapps, Fintech, & Def Projects
 - 📫 How to reach me here !! 
